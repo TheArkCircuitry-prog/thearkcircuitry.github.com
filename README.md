@@ -52,3 +52,16 @@ Professional-grade market intelligence platform.
 ---
 
 ## Navigation
+- Home: Overview
+- Markets: Real-time tickers
+- Research: Client-only analysis
+- Portal: Login & account management
+
+---
+
+## Notes / Visual Mockup
+
+- Charts and graphs would appear here (TradingView embeds in real app)
+- The modal for login appears when accessing restricted pages
+- Persistent authentication via localStorage
+- Page transitions are smooth, no crashes
