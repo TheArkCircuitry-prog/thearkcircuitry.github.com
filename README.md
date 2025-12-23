@@ -1,4 +1,4 @@
-# thearkcircuitry.github.com
+# thearkcircuitry.github.io
 # TradeMock Dashboard (Mockup)
 
 ---
