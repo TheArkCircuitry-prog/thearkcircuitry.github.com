@@ -33,3 +33,22 @@ Professional-grade market intelligence platform.
 - Macro Risk Dashboard
 
 > If not logged in, show a **Login Modal**:
+---
+
+## Portal
+
+**User Authentication**
+
+- Status: AUTHENTICATED / LOGGED OUT
+- Actions:
+  - Login
+  - Logout
+
+**Subscriptions / Roles:**
+- Free
+- Pro
+- Institutional
+
+---
+
+## Navigation
